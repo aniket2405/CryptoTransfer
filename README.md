@@ -12,3 +12,7 @@ Stills from the webpage:
 --
 
 ![Screenshot 2022-01-12 053734](https://user-images.githubusercontent.com/64733221/149041678-8ce39c54-b130-4d3b-855d-f510a5973104.png)
+
+To open the decentralized application locally:
+
+Go to ...client/vite-project and type 'npm run dev' to open in local host.
